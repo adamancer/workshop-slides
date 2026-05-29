@@ -87,7 +87,7 @@ The Instructors will try to build in time between lessons to ask questions, but 
 
 ## Course website
 
-https://smithsonian.github.io/2025-06-24-smithsonian/
+https://smithsonian.github.io/2026-06-23-smithsonian
 
 ---
 
@@ -95,7 +95,7 @@ https://smithsonian.github.io/2025-06-24-smithsonian/
 
 A collaborative document – think of it as a stripped-down version of Google Docs
 
-https://pad.carpentries.org/2025-06-24-smithsonian
+https://pad.carpentries.org/2026-06-23-smithsonian
 
 ---
 
