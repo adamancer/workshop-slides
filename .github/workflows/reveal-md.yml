@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'intro_slides.md'
+      - 'intro_slides_short.md'
   workflow_dispatch:
 
 jobs:
@@ -27,6 +28,8 @@ jobs:
 #          git push
       - name: Build presentation slides HTML
         run: DEBUG=reveal-md reveal-md intro_slides.md --static intro_slides
+      - name: Build short presentation slides HTML
+        run: DEBUG=reveal-md reveal-md intro_slides_short.md --static intro_slides_short
       # Push the site's HTML to github-pages
       - name: GitHub Pages action
         uses: peaceiris/actions-gh-pages@v3.5.9
