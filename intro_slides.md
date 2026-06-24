@@ -13,21 +13,9 @@ revealOptions:
 
 ---
 
-Before we start...
-
 ## Code of Conduct
 
-* We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
-
----
-
-## Code of Conduct
-
-https://docs.carpentries.org/policies/coc/
-
----
-
-## Code of Conduct
+* https://docs.carpentries.org/policies/coc/
 
 * Go to Instructors or Helpers if you feel the Code of Conduct is being violated.
 
@@ -38,34 +26,6 @@ https://docs.carpentries.org/policies/coc/
 ## Introductions
 
 ### *Instructors and Helpers*
-
----
-
-## What is the Carpentries?
-
-https://carpentries.org/
-
-The Carpentries is a global volunteer-driven organization dedicated to teaching computational skills to researchers and anyone who works with data.
-
----
-
-## Carpentries at the Smithsonian
-
-https://datascience.si.edu/carpentries
-
-The Smithsonian Carpentries Team is made up of Smithsonian staff and fellows from around the institution.
-
----
-
-## Carpentries way of teaching
-
-Code along, rather than lecturing from PowerPoint, or just demonstrating
-
-Odds of running into an error are high, but don’t panic – this is a great opportunity to learn
-
----
-
-## ***We won’t leave you behind***
 
 ---
 
@@ -103,24 +63,10 @@ https://pad.carpentries.org/2026-06-23-smithsonian
 
 * Go to the EtherPad
 
-* Add your name, unit, and answer the icebreaker question under Attendance for today
-
----
-
-## What we will be teaching in this workshop
-
-Data Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning.
-
----
-
-> We will be teaching you a lot of valuable skills on a demo dataset, but you won't be able to add these tools to your *toolbag* until you work through how to apply them to your own data.
+* Add your name and unit under Attendance for today
 
 ---
 
 ## LLM Usage
 
 You are welcome to use an LLM during the lesson if you find it helpful, but we strongly recommend that you try to work through any challenge exercises on your own
-
----
-
-![Fake Book Cover](images/changing_stuff.jpg)
